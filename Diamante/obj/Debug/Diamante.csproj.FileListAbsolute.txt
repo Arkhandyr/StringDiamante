@@ -1,0 +1,7 @@
+C:\Users\victo\source\repos\Diamante\Diamante\bin\Debug\Diamante.exe.config
+C:\Users\victo\source\repos\Diamante\Diamante\bin\Debug\Diamante.exe
+C:\Users\victo\source\repos\Diamante\Diamante\bin\Debug\Diamante.pdb
+C:\Users\victo\source\repos\Diamante\Diamante\obj\Debug\Diamante.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\Diamante\Diamante\obj\Debug\Diamante.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\Diamante\Diamante\obj\Debug\Diamante.exe
+C:\Users\victo\source\repos\Diamante\Diamante\obj\Debug\Diamante.pdb
